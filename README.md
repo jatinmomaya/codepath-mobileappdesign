@@ -4,7 +4,7 @@
 This app allows a user to change text, text color, and background color.
 
 ### App Walk-though
-<img src="file:///C:/CodePath%20-%20Mobile%20App%20Design/preworkproject.gif" width=200><br>
+<img src="https://github.com/jatinmomaya/codepath-mobileappdesign/blob/master/preworkproject.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
